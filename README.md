@@ -4,10 +4,10 @@ golang version for [nmap_vscan](https://github.com/nixawk/nmap_vscan) nmap servi
 
 ## TTD
 
-[X] go regexp.*匹配不到换行符\n 需要设置(?s)
-[X] go regexp 忽略大小写匹配默认开启问题(?i)
-[X] 修正Fallback不发包只匹配的问题
-[ ] 封装成可调用包
+- [X] go regexp.*匹配不到换行符\n 需要设置(?s)
+- [X] go regexp 忽略大小写匹配默认开启问题(?i)
+- [X] 修正Fallback不发包只匹配的问题
+- [ ] 封装成可调用包
 
 ## Building
 
